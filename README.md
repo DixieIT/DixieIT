@@ -1,6 +1,6 @@
 # Hi, I'm Gabriele Masiero
 
-**Software Developer** | Backend & AI/ML Enthusiast
+**Software Developer** | Junior AI Developer
 
 Computer Science graduate from University of Verona with hands-on experience in multi-agent reinforcement learning research. Passionate about building scalable systems and exploring the intersection of software engineering and AI.
 
