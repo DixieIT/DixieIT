@@ -6,6 +6,7 @@ Computer Science graduate from University of Verona with hands-on experience in 
 
 ## About Me
 
+- Currently working at **Ennova-Research**
 - Completed the **Ennova-Research Generative AI Bootcamp**
 - Completed a research internship on **Multi-Agent Reinforcement Learning** (MARL)
 - Experience in database management and system optimization
